@@ -35,7 +35,7 @@
 
 <!-- customize these to your actual work -->
 
-- Computational biology & bioinformatics
+- Single-cell longitudinal imaging & computational biology
 - Data analysis, statistics, and visualization
 - Reproducible research pipelines & workflow automation
 - Building internal tools that help scientists move faster
