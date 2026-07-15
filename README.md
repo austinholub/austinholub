@@ -9,7 +9,7 @@
   Everything marked "customize" is a placeholder — tweak to taste.
 -->
 
-<h1 align="center">Hi, I'm Austin 👋</h1>
+<h1 align="center">Hi, I'm Austin 🤙🏻</h1>
 
 <p align="center">
   <b>Research engineer / computational scientist</b> at
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧬 About me
+### 🕺🏻 About me
 
 - 🔬 I work at the intersection of **biology and software** — building the tools, analyses, and pipelines that turn raw data into results.
 - 🧪 Comfortable across the stack: wrangling messy datasets, writing reproducible code, and shipping things that other scientists can actually use.
@@ -31,7 +31,7 @@
 
 <!-- customize the bullets above to match your voice -->
 
-### 🔭 Research & interests
+### 🔬 Research & interests
 
 <!-- customize these to your actual work -->
 
