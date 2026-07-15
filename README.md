@@ -18,12 +18,7 @@
   Turning biological questions into code, data, and reproducible pipelines.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=6f42c1&style=flat-square" alt="profile views" />
-  <a href="https://github.com/USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" alt="followers" />
-  </a>
-</p>
+
 
 ---
 
